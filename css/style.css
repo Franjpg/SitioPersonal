@@ -1,0 +1,90 @@
+
+body {
+  height: 1600px;
+  background-color: #0D47A1;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Container */
+
+.container{
+  box-shadow: 0 20px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  background-color: white;
+  margin-top: 50px;
+  height: 1500px;
+}
+
+/* Header */
+
+.header {
+  height: 100px;
+}
+
+.MiNombre {
+  margin-top: 25px;
+  margin-left: 15px;
+  font-size: 24pt;
+  color: #0D47A1;
+  height: 40px;
+  cursor: pointer;
+  font-family: 'Pacifico', cursive;
+}
+
+.boton-sup {
+  font-weight: bold;
+  height: 40px;
+  font-size: 14pt;
+  text-align: center;
+  color: #0D47A1;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Sobre Mi */
+
+.Sobremi {
+  margin-top: 125px;
+}
+
+.SobremiTXT {
+  margin-top: 225px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* */
